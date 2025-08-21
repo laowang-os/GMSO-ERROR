@@ -2,7 +2,7 @@
 Engine Incompatibility Error
 I add several informations of torsional parameters as the format of xml file, then I apply the force field to the structure, but a error appeared. 
 Here are the informations I added.
-<Proper class1="CM" class2="CT" class3="CT" class4="CM" c0="1.3598" c1="-0.523" c2="0.8368" c3="-1.6736" c4="0.0" c5="0.0"/>
+  <Proper class1="CM" class2="CT" class3="CT" class4="CM" c0="1.3598" c1="-0.523" c2="0.8368" c3="-1.6736" c4="0.0" c5="0.0"/>
   <Proper class1="CT" class2="CT" class3="CM" class4="HC" c0="0.6276" c1="1.8828" c2="0.0" c3="-2.5104" c4="0.0" c5="0.0"/>
   <Improper class1="CM" class2="CM" class3="CT" class4="CT" c0="0.527184" c1="-6.397336" c2="-1.69452" c3="7.564672" c4="0.0" c5="0.0" />
   <Improper class1="CM" class2="CT" class3="CM" class4="HC" c0="-33.472" c1="0.0" c2="33.472" c3="0.0" c4="0.0" c5="0.0" />
